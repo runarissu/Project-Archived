@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath: '/Project-Archived'
+    basePath: '/'
 };
 
 export default nextConfig;
